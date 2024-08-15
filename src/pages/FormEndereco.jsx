@@ -17,7 +17,7 @@ const FormEndereco = () => {
           },
           'option': {
             backgroundColor: '#333',  // Fundo escuro para opções
-            color: '#fff',  // Texto branco para opções
+            color: 'black', 
           },
           'select:focus': {
             borderColor: '#4CAF50',  // Cor da borda no foco
